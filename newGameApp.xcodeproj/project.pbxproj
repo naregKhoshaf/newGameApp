@@ -15,6 +15,23 @@
 		3D2D59501C45995700F4AA6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D594E1C45995700F4AA6D /* LaunchScreen.storyboard */; };
 		3D2D595B1C45995700F4AA6D /* newGameAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2D595A1C45995700F4AA6D /* newGameAppTests.m */; };
 		3D2D59661C45995700F4AA6D /* newGameAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2D59651C45995700F4AA6D /* newGameAppUITests.m */; };
+		3D2D59851C459FCA00F4AA6D /* Mona_Lisa_00.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59751C459FCA00F4AA6D /* Mona_Lisa_00.jpeg */; };
+		3D2D59861C459FCA00F4AA6D /* Mona_Lisa_01.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59761C459FCA00F4AA6D /* Mona_Lisa_01.jpeg */; };
+		3D2D59871C459FCA00F4AA6D /* Mona_Lisa_02.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59771C459FCA00F4AA6D /* Mona_Lisa_02.jpeg */; };
+		3D2D59881C459FCA00F4AA6D /* Mona_Lisa_03.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59781C459FCA00F4AA6D /* Mona_Lisa_03.jpeg */; };
+		3D2D59891C459FCA00F4AA6D /* Mona_Lisa_04.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59791C459FCA00F4AA6D /* Mona_Lisa_04.jpeg */; };
+		3D2D598A1C459FCA00F4AA6D /* Mona_Lisa_05.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D597A1C459FCA00F4AA6D /* Mona_Lisa_05.jpeg */; };
+		3D2D598B1C459FCA00F4AA6D /* Mona_Lisa_06.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D597B1C459FCA00F4AA6D /* Mona_Lisa_06.jpeg */; };
+		3D2D598C1C459FCA00F4AA6D /* Mona_Lisa_07.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D597C1C459FCA00F4AA6D /* Mona_Lisa_07.jpeg */; };
+		3D2D598D1C459FCA00F4AA6D /* Mona_Lisa_08.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D597D1C459FCA00F4AA6D /* Mona_Lisa_08.jpeg */; };
+		3D2D598E1C459FCA00F4AA6D /* Mona_Lisa_09.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D597E1C459FCA00F4AA6D /* Mona_Lisa_09.jpeg */; };
+		3D2D598F1C459FCA00F4AA6D /* Mona_Lisa_10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D597F1C459FCA00F4AA6D /* Mona_Lisa_10.jpeg */; };
+		3D2D59901C459FCA00F4AA6D /* Mona_Lisa_11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59801C459FCA00F4AA6D /* Mona_Lisa_11.jpeg */; };
+		3D2D59911C459FCA00F4AA6D /* Mona_Lisa_12.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59811C459FCA00F4AA6D /* Mona_Lisa_12.jpeg */; };
+		3D2D59921C459FCA00F4AA6D /* Mona_Lisa_13.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59821C459FCA00F4AA6D /* Mona_Lisa_13.jpeg */; };
+		3D2D59931C459FCA00F4AA6D /* Mona_Lisa_14.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59831C459FCA00F4AA6D /* Mona_Lisa_14.jpeg */; };
+		3D2D59941C459FCA00F4AA6D /* Mona_Lisa_15.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59841C459FCA00F4AA6D /* Mona_Lisa_15.jpeg */; };
+		3D2D59971C45A0C800F4AA6D /* Mona_Lisa_16.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3D2D59961C45A0C800F4AA6D /* Mona_Lisa_16.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +68,23 @@
 		3D2D59611C45995700F4AA6D /* newGameAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = newGameAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D2D59651C45995700F4AA6D /* newGameAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newGameAppUITests.m; sourceTree = "<group>"; };
 		3D2D59671C45995700F4AA6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D2D59751C459FCA00F4AA6D /* Mona_Lisa_00.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_00.jpeg; sourceTree = "<group>"; };
+		3D2D59761C459FCA00F4AA6D /* Mona_Lisa_01.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_01.jpeg; sourceTree = "<group>"; };
+		3D2D59771C459FCA00F4AA6D /* Mona_Lisa_02.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_02.jpeg; sourceTree = "<group>"; };
+		3D2D59781C459FCA00F4AA6D /* Mona_Lisa_03.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_03.jpeg; sourceTree = "<group>"; };
+		3D2D59791C459FCA00F4AA6D /* Mona_Lisa_04.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_04.jpeg; sourceTree = "<group>"; };
+		3D2D597A1C459FCA00F4AA6D /* Mona_Lisa_05.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_05.jpeg; sourceTree = "<group>"; };
+		3D2D597B1C459FCA00F4AA6D /* Mona_Lisa_06.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_06.jpeg; sourceTree = "<group>"; };
+		3D2D597C1C459FCA00F4AA6D /* Mona_Lisa_07.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_07.jpeg; sourceTree = "<group>"; };
+		3D2D597D1C459FCA00F4AA6D /* Mona_Lisa_08.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_08.jpeg; sourceTree = "<group>"; };
+		3D2D597E1C459FCA00F4AA6D /* Mona_Lisa_09.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_09.jpeg; sourceTree = "<group>"; };
+		3D2D597F1C459FCA00F4AA6D /* Mona_Lisa_10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_10.jpeg; sourceTree = "<group>"; };
+		3D2D59801C459FCA00F4AA6D /* Mona_Lisa_11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_11.jpeg; sourceTree = "<group>"; };
+		3D2D59811C459FCA00F4AA6D /* Mona_Lisa_12.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_12.jpeg; sourceTree = "<group>"; };
+		3D2D59821C459FCA00F4AA6D /* Mona_Lisa_13.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_13.jpeg; sourceTree = "<group>"; };
+		3D2D59831C459FCA00F4AA6D /* Mona_Lisa_14.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_14.jpeg; sourceTree = "<group>"; };
+		3D2D59841C459FCA00F4AA6D /* Mona_Lisa_15.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_15.jpeg; sourceTree = "<group>"; };
+		3D2D59961C45A0C800F4AA6D /* Mona_Lisa_16.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mona_Lisa_16.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +135,7 @@
 		3D2D593F1C45995700F4AA6D /* newGameApp */ = {
 			isa = PBXGroup;
 			children = (
+				3D2D59951C459FDB00F4AA6D /* ImagesGrp */,
 				3D2D59431C45995700F4AA6D /* AppDelegate.h */,
 				3D2D59441C45995700F4AA6D /* AppDelegate.m */,
 				3D2D59461C45995700F4AA6D /* ViewController.h */,
@@ -138,6 +173,30 @@
 				3D2D59671C45995700F4AA6D /* Info.plist */,
 			);
 			path = newGameAppUITests;
+			sourceTree = "<group>";
+		};
+		3D2D59951C459FDB00F4AA6D /* ImagesGrp */ = {
+			isa = PBXGroup;
+			children = (
+				3D2D59751C459FCA00F4AA6D /* Mona_Lisa_00.jpeg */,
+				3D2D59761C459FCA00F4AA6D /* Mona_Lisa_01.jpeg */,
+				3D2D59771C459FCA00F4AA6D /* Mona_Lisa_02.jpeg */,
+				3D2D59781C459FCA00F4AA6D /* Mona_Lisa_03.jpeg */,
+				3D2D59791C459FCA00F4AA6D /* Mona_Lisa_04.jpeg */,
+				3D2D597A1C459FCA00F4AA6D /* Mona_Lisa_05.jpeg */,
+				3D2D597B1C459FCA00F4AA6D /* Mona_Lisa_06.jpeg */,
+				3D2D597C1C459FCA00F4AA6D /* Mona_Lisa_07.jpeg */,
+				3D2D597D1C459FCA00F4AA6D /* Mona_Lisa_08.jpeg */,
+				3D2D597E1C459FCA00F4AA6D /* Mona_Lisa_09.jpeg */,
+				3D2D597F1C459FCA00F4AA6D /* Mona_Lisa_10.jpeg */,
+				3D2D59801C459FCA00F4AA6D /* Mona_Lisa_11.jpeg */,
+				3D2D59811C459FCA00F4AA6D /* Mona_Lisa_12.jpeg */,
+				3D2D59821C459FCA00F4AA6D /* Mona_Lisa_13.jpeg */,
+				3D2D59831C459FCA00F4AA6D /* Mona_Lisa_14.jpeg */,
+				3D2D59841C459FCA00F4AA6D /* Mona_Lisa_15.jpeg */,
+				3D2D59961C45A0C800F4AA6D /* Mona_Lisa_16.jpeg */,
+			);
+			name = ImagesGrp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,8 +306,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D2D59501C45995700F4AA6D /* LaunchScreen.storyboard in Resources */,
+				3D2D59851C459FCA00F4AA6D /* Mona_Lisa_00.jpeg in Resources */,
 				3D2D594D1C45995700F4AA6D /* Assets.xcassets in Resources */,
+				3D2D59871C459FCA00F4AA6D /* Mona_Lisa_02.jpeg in Resources */,
+				3D2D59941C459FCA00F4AA6D /* Mona_Lisa_15.jpeg in Resources */,
+				3D2D59881C459FCA00F4AA6D /* Mona_Lisa_03.jpeg in Resources */,
+				3D2D598A1C459FCA00F4AA6D /* Mona_Lisa_05.jpeg in Resources */,
+				3D2D598E1C459FCA00F4AA6D /* Mona_Lisa_09.jpeg in Resources */,
+				3D2D598F1C459FCA00F4AA6D /* Mona_Lisa_10.jpeg in Resources */,
+				3D2D59911C459FCA00F4AA6D /* Mona_Lisa_12.jpeg in Resources */,
+				3D2D598C1C459FCA00F4AA6D /* Mona_Lisa_07.jpeg in Resources */,
+				3D2D598D1C459FCA00F4AA6D /* Mona_Lisa_08.jpeg in Resources */,
+				3D2D59861C459FCA00F4AA6D /* Mona_Lisa_01.jpeg in Resources */,
+				3D2D59931C459FCA00F4AA6D /* Mona_Lisa_14.jpeg in Resources */,
+				3D2D59891C459FCA00F4AA6D /* Mona_Lisa_04.jpeg in Resources */,
+				3D2D598B1C459FCA00F4AA6D /* Mona_Lisa_06.jpeg in Resources */,
+				3D2D59921C459FCA00F4AA6D /* Mona_Lisa_13.jpeg in Resources */,
+				3D2D59901C459FCA00F4AA6D /* Mona_Lisa_11.jpeg in Resources */,
 				3D2D594B1C45995700F4AA6D /* Main.storyboard in Resources */,
+				3D2D59971C45A0C800F4AA6D /* Mona_Lisa_16.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
