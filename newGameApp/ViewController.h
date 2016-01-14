@@ -9,7 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+//Added
+@property (nonatomic, strong) NSMutableArray *allImgViews;
+@property (nonatomic, strong) NSMutableArray *allCenters;
+//
 
 @end
 
