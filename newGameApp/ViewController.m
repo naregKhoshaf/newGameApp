@@ -41,14 +41,20 @@ int puzzleSize = 4;
             // alloc allocates a chunk of memory to hold the object, and returns the pointer.
             // Creates a rectangel with a width and height.
             CGPoint curCenter = CGPointMake(xLocation, yLocation);
-            // This will be the cordinates of the image.
+            // This will be the cordinates of the image. Each image will go through this process.
+            
             [_allCenters addObject: [NSValue valueWithCGPoint:curCenter] ];
+            // The coordinate for the image will be pushed to allCenters.
             
             myImgView.center = curCenter;
             // center is the position of the image
             myImgView.image = [UIImage imageNamed:[NSString stringWithFormat:@"Mona_Lisa_%02i.jpeg", h+v*4]];
+            // !! Don't understand how it's iterating through each image. 
             myImgView.userInteractionEnabled = YES;
+            
             [_allImgViews addObject:myImgView];
+            // This adds the current image to the allImgViews array.
+            
             [self.view addSubview:myImgView];
             xLocation +=width;
         }
@@ -69,10 +75,11 @@ int puzzleSize = 4;
     
     [self puzzleSetup];
     
-    [[_allImgViews objectAtIndex:0] removeFromSuperview];
-    [_allImgViews removeObjectAtIndex:0];
-    // we have an array with all 15 imageviews and another array with all 16 centers/locations
     
+    [[_allImgViews objectAtIndex: 0] removeFromSuperview];
+    [_allImgViews removeObjectAtIndex: 0];
+    // We have 16 split images to make the complete image but need to remove 1 image to make the puzzle of 15
+    // As a result, we remove Image "Mona_Lisa_15.jpeg" which is the last image in the image.
 //    [self randomizeBlocks];
     [self reverseBlocks];
 }
@@ -100,19 +107,21 @@ int puzzleSize = 4;
 // To Do: Need to reverse the images instead of Randomize them.
 - (void) reverseBlocks {
     NSMutableArray *centerCopy = [_allCenters mutableCopy];
-    int reverseLocInt;
+    NSArray* reverseCopy = [[centerCopy reverseObjectEnumerator] allObjects];
+    // This reverse allCenters array.
     CGPoint reverseLoc;
+    int counter = 0;
     
-    for (UIView *any in _allImgViews)
+    for (UIView* any in _allImgViews)
     {
-        reverseLocInt = arc4random() % centerCopy.count;
-        reverseLoc = [[centerCopy objectAtIndex:reverseLocInt] CGPointValue];
         
+        reverseLoc = [[reverseCopy objectAtIndex:counter] CGPointValue];
         any.center = reverseLoc;
-        [centerCopy removeObjectAtIndex:reverseLocInt];
+        counter +=1;
     }
     emptySpot = [[centerCopy objectAtIndex:0] CGPointValue];
 }
+
 
 
 
